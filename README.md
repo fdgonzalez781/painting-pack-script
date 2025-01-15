@@ -1,1 +1,1 @@
-"# Painting Pack Script" 
+# Painting Pack Script
